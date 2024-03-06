@@ -14,13 +14,13 @@ To set up and run this project, you need to have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/my-responsive-angular-app.git
+    git clone https://github.com/ivannofick/responsive-web-design-angular.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd my-responsive-angular-app
+    cd responsive-web-design-angular
     ```
 
 3. **Install dependencies:**
